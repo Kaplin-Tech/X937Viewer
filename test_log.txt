@@ -1,3 +1,0 @@
-=== venv === 
-=== pip install === 
-ERROR: Operation cancelled by user
